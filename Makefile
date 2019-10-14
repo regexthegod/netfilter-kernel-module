@@ -1,4 +1,4 @@
-obj-m = module.o
+obj-m = nfmod.o
 KVERSION = $(shell uname -r)
 
 all:
